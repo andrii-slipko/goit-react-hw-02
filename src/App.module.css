@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.name {
+    color: black;
+    margin: 0;
+}

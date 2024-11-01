@@ -1,0 +1,15 @@
+.name {
+    color: black;
+    margin: 0;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: rgb(203, 203, 203);
+    border: 1px solid #000000;
+    color: black;
+    margin-right: 10px;
+    border-radius: 4px;
+}
